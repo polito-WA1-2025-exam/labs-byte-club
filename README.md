@@ -1,7 +1,7 @@
 # Group "GROUP NAME"
 
 ## Members
-- s328780 okshtuni ARmi
+- s328780 Okshtuni Armi
 - s123456 LASTNAME FIRSTNAME
 - s123456 LASTNAME FIRSTNAME
 
